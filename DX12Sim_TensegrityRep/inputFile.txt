@@ -1,0 +1,48 @@
+###############################################
+## 0. Sphere count	 	 <600-60000> (radius of 1)
+## 1. Simulation Space X	 <100-600>
+## 2. Simulation Space Y	 <100-600>
+## 3. Simulation Space Z	 <100-600>
+7680
+800
+500
+400
+###############################################
+## 4. Show Flexible grid	 <0/1>
+## 5. Equilibrium	LJP 	 <800-3000> (x100 - example. 1100 = 1.100)
+## 6. LJP - Force Strenght (x100) <20-60>
+## 7. Enable attractive force	  <0/1>
+0
+2000
+60
+0
+###############################################
+## 8. Atractive Force Multiplyer  <0/2000> (suggested 400)
+## 9. Gravity			  <0/1>
+## 10. Enable force color	  <0/1>
+## 11. Use solid boundaries	  <0/1> (not infinite)
+100
+0
+1
+1
+###############################################
+## 12. Cube length <2-10> interaction length is 1.5x the cube length
+## 13. Save images <t/f>
+## 14. Image saving interval in seconds <1-9000>
+## 15. Print text to screen <t/f>
+8
+f
+10
+t
+###############################################
+## 16. Use network compute <t/f>
+## 17. Use compute shader for LJP <t/f>
+## 18. Use compute shader for CPU->GPU copy <t/f>
+## 19. DirectX12 window width <1280-1920-2560>
+## 20. DirectX12 window width <720-1080-1440>
+f
+t
+f
+1800
+1000
+## 2400 with old shader for self organizing 5000

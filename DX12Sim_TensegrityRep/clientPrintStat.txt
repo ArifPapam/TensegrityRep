@@ -1,0 +1,490 @@
+<<< Status Frame 100 >>>
+--statusTimer:  2.74
+--waitTimer:    0.03
+<<< Status Frame 200 >>>
+--statusTimer:  2.64
+--waitTimer:    0.02
+<<< Status Frame 300 >>>
+--statusTimer:  2.70
+--waitTimer:    0.03
+<<< Status Frame 400 >>>
+--statusTimer:  2.72
+--waitTimer:    0.03
+<<< Status Frame 500 >>>
+--statusTimer:  2.70
+--waitTimer:    0.03
+<<< Status Frame 600 >>>
+--statusTimer:  2.71
+--waitTimer:    0.02
+<<< Status Frame 700 >>>
+--statusTimer:  2.74
+--waitTimer:    0.03
+<<< Status Frame 800 >>>
+--statusTimer:  2.73
+--waitTimer:    0.02
+<<< Status Frame 900 >>>
+--statusTimer:  2.68
+--waitTimer:    0.03
+<<< Status Frame 1000 >>>
+--statusTimer:  2.72
+--waitTimer:    0.03
+<<< Status Frame 1100 >>>
+--statusTimer:  2.68
+--waitTimer:    0.03
+<<< Status Frame 1200 >>>
+--statusTimer:  2.69
+--waitTimer:    0.03
+<<< Status Frame 1300 >>>
+--statusTimer:  2.67
+--waitTimer:    0.02
+<<< Status Frame 1400 >>>
+--statusTimer:  2.68
+--waitTimer:    0.02
+<<< Status Frame 1500 >>>
+--statusTimer:  2.70
+--waitTimer:    0.03
+<<< Status Frame 1600 >>>
+--statusTimer:  2.68
+--waitTimer:    0.03
+<<< Status Frame 1700 >>>
+--statusTimer:  2.74
+--waitTimer:    0.03
+<<< Status Frame 1800 >>>
+--statusTimer:  4.66
+--waitTimer:    0.17
+<<< Status Frame 1900 >>>
+--statusTimer: 12.32
+--waitTimer:    0.14
+<<< Status Frame 2000 >>>
+--statusTimer: 11.72
+--waitTimer:    0.07
+<<< Status Frame 2100 >>>
+--statusTimer: 12.19
+--waitTimer:    0.09
+<<< Status Frame 2200 >>>
+--statusTimer: 12.44
+--waitTimer:    0.18
+<<< Status Frame 2300 >>>
+--statusTimer: 12.50
+--waitTimer:    0.07
+<<< Status Frame 2400 >>>
+--statusTimer: 12.49
+--waitTimer:    0.06
+<<< Status Frame 2500 >>>
+--statusTimer: 12.37
+--waitTimer:    0.08
+<<< Status Frame 2600 >>>
+--statusTimer: 12.00
+--waitTimer:    0.13
+<<< Status Frame 2700 >>>
+--statusTimer: 12.07
+--waitTimer:    0.17
+<<< Status Frame 2800 >>>
+--statusTimer: 11.01
+--waitTimer:    0.12
+<<< Status Frame 2900 >>>
+--statusTimer: 11.93
+--waitTimer:    0.12
+<<< Status Frame 3000 >>>
+--statusTimer: 13.65
+--waitTimer:    0.02
+<<< Status Frame 3100 >>>
+--statusTimer: 13.48
+--waitTimer:    0.14
+<<< Status Frame 3200 >>>
+--statusTimer: 12.79
+--waitTimer:    0.14
+<<< Status Frame 3300 >>>
+--statusTimer: 11.90
+--waitTimer:    0.11
+<<< Status Frame 3400 >>>
+--statusTimer: 13.61
+--waitTimer:    0.08
+<<< Status Frame 3500 >>>
+--statusTimer: 12.65
+--waitTimer:    0.16
+<<< Status Frame 3600 >>>
+--statusTimer: 13.07
+--waitTimer:    0.14
+<<< Status Frame 3700 >>>
+--statusTimer: 12.57
+--waitTimer:    0.12
+<<< Status Frame 3800 >>>
+--statusTimer: 12.18
+--waitTimer:    0.15
+<<< Status Frame 3900 >>>
+--statusTimer: 13.03
+--waitTimer:    0.02
+<<< Status Frame 4000 >>>
+--statusTimer: 12.15
+--waitTimer:    0.16
+<<< Status Frame 4100 >>>
+--statusTimer: 11.42
+--waitTimer:    0.12
+<<< Status Frame 4200 >>>
+--statusTimer: 11.68
+--waitTimer:    0.08
+<<< Status Frame 4300 >>>
+--statusTimer: 11.93
+--waitTimer:    0.11
+<<< Status Frame 4400 >>>
+--statusTimer: 12.83
+--waitTimer:    0.11
+<<< Status Frame 4500 >>>
+--statusTimer: 11.78
+--waitTimer:    0.08
+<<< Status Frame 4600 >>>
+--statusTimer: 12.28
+--waitTimer:    0.12
+<<< Status Frame 4700 >>>
+--statusTimer: 12.55
+--waitTimer:    0.17
+<<< Status Frame 4800 >>>
+--statusTimer: 12.28
+--waitTimer:    0.07
+<<< Status Frame 4900 >>>
+--statusTimer: 11.77
+--waitTimer:    0.09
+<<< Status Frame 5000 >>>
+--statusTimer: 13.44
+--waitTimer:    0.11
+<<< Status Frame 5100 >>>
+--statusTimer: 12.54
+--waitTimer:    0.08
+<<< Status Frame 5200 >>>
+--statusTimer: 12.50
+--waitTimer:    0.10
+<<< Status Frame 5300 >>>
+--statusTimer: 12.58
+--waitTimer:    0.03
+<<< Status Frame 5400 >>>
+--statusTimer: 13.57
+--waitTimer:    0.12
+<<< Status Frame 5500 >>>
+--statusTimer: 12.59
+--waitTimer:    0.04
+<<< Status Frame 5600 >>>
+--statusTimer: 12.44
+--waitTimer:    0.05
+<<< Status Frame 5700 >>>
+--statusTimer: 13.02
+--waitTimer:    0.13
+<<< Status Frame 5800 >>>
+--statusTimer: 12.81
+--waitTimer:    0.11
+<<< Status Frame 5900 >>>
+--statusTimer: 12.24
+--waitTimer:    0.12
+<<< Status Frame 6000 >>>
+--statusTimer: 12.20
+--waitTimer:    0.23
+<<< Status Frame 6100 >>>
+--statusTimer: 11.47
+--waitTimer:    0.09
+<<< Status Frame 6200 >>>
+--statusTimer: 12.06
+--waitTimer:    0.10
+<<< Status Frame 6300 >>>
+--statusTimer: 11.99
+--waitTimer:    0.17
+<<< Status Frame 6400 >>>
+--statusTimer: 13.37
+--waitTimer:    0.14
+<<< Status Frame 6500 >>>
+--statusTimer: 12.19
+--waitTimer:    0.21
+<<< Status Frame 6600 >>>
+--statusTimer: 12.83
+--waitTimer:    0.16
+<<< Status Frame 6700 >>>
+--statusTimer: 11.98
+--waitTimer:    0.09
+<<< Status Frame 6800 >>>
+--statusTimer: 12.05
+--waitTimer:    0.12
+<<< Status Frame 6900 >>>
+--statusTimer: 13.08
+--waitTimer:    0.16
+<<< Status Frame 7000 >>>
+--statusTimer: 13.72
+--waitTimer:    0.29
+<<< Status Frame 7100 >>>
+--statusTimer: 12.82
+--waitTimer:    0.11
+<<< Status Frame 7200 >>>
+--statusTimer: 12.22
+--waitTimer:    0.13
+<<< Status Frame 7300 >>>
+--statusTimer: 13.19
+--waitTimer:    0.10
+<<< Status Frame 7400 >>>
+--statusTimer: 12.46
+--waitTimer:    0.21
+<<< Status Frame 7500 >>>
+--statusTimer: 15.99
+--waitTimer:    0.11
+<<< Status Frame 7600 >>>
+--statusTimer: 13.45
+--waitTimer:    0.12
+<<< Status Frame 7700 >>>
+--statusTimer: 10.86
+--waitTimer:    0.23
+<<< Status Frame 7800 >>>
+--statusTimer: 13.24
+--waitTimer:    0.11
+<<< Status Frame 7900 >>>
+--statusTimer: 12.55
+--waitTimer:    0.09
+<<< Status Frame 8000 >>>
+--statusTimer: 12.56
+--waitTimer:    0.09
+<<< Status Frame 8100 >>>
+--statusTimer: 12.37
+--waitTimer:    0.18
+<<< Status Frame 8200 >>>
+--statusTimer: 11.91
+--waitTimer:    0.20
+<<< Status Frame 8300 >>>
+--statusTimer: 13.45
+--waitTimer:    0.14
+<<< Status Frame 8400 >>>
+--statusTimer: 12.96
+--waitTimer:    0.05
+<<< Status Frame 8500 >>>
+--statusTimer: 12.72
+--waitTimer:    0.12
+<<< Status Frame 8600 >>>
+--statusTimer: 12.06
+--waitTimer:    0.09
+<<< Status Frame 8700 >>>
+--statusTimer: 11.93
+--waitTimer:    0.18
+<<< Status Frame 8800 >>>
+--statusTimer: 13.92
+--waitTimer:    0.24
+<<< Status Frame 8900 >>>
+--statusTimer: 12.49
+--waitTimer:    0.24
+<<< Status Frame 9000 >>>
+--statusTimer: 12.99
+--waitTimer:    0.07
+<<< Status Frame 9100 >>>
+--statusTimer: 12.16
+--waitTimer:    0.04
+<<< Status Frame 9200 >>>
+--statusTimer: 13.10
+--waitTimer:    0.15
+<<< Status Frame 9300 >>>
+--statusTimer: 13.25
+--waitTimer:    0.06
+<<< Status Frame 9400 >>>
+--statusTimer: 12.83
+--waitTimer:    0.13
+<<< Status Frame 9500 >>>
+--statusTimer: 12.10
+--waitTimer:    0.20
+<<< Status Frame 9600 >>>
+--statusTimer: 13.09
+--waitTimer:    0.18
+<<< Status Frame 9700 >>>
+--statusTimer: 11.79
+--waitTimer:    0.04
+<<< Status Frame 9800 >>>
+--statusTimer: 13.39
+--waitTimer:    0.16
+<<< Status Frame 9900 >>>
+--statusTimer: 11.97
+--waitTimer:    0.16
+<<< Status Frame 10000 >>>
+--statusTimer: 12.84
+--waitTimer:    0.15
+<<< Status Frame 10100 >>>
+--statusTimer: 12.71
+--waitTimer:    0.09
+<<< Status Frame 10200 >>>
+--statusTimer: 12.60
+--waitTimer:    0.08
+<<< Status Frame 10300 >>>
+--statusTimer: 12.32
+--waitTimer:    0.06
+<<< Status Frame 10400 >>>
+--statusTimer: 12.70
+--waitTimer:    0.11
+<<< Status Frame 10500 >>>
+--statusTimer: 13.19
+--waitTimer:    0.07
+<<< Status Frame 10600 >>>
+--statusTimer: 11.28
+--waitTimer:    0.12
+<<< Status Frame 10700 >>>
+--statusTimer: 12.81
+--waitTimer:    0.07
+<<< Status Frame 10800 >>>
+--statusTimer: 12.82
+--waitTimer:    0.02
+<<< Status Frame 10900 >>>
+--statusTimer: 12.19
+--waitTimer:    0.13
+<<< Status Frame 11000 >>>
+--statusTimer: 12.43
+--waitTimer:    0.06
+<<< Status Frame 11100 >>>
+--statusTimer: 12.53
+--waitTimer:    0.13
+<<< Status Frame 11200 >>>
+--statusTimer: 12.68
+--waitTimer:    0.10
+<<< Status Frame 11300 >>>
+--statusTimer: 12.79
+--waitTimer:    0.16
+<<< Status Frame 11400 >>>
+--statusTimer: 12.15
+--waitTimer:    0.12
+<<< Status Frame 11500 >>>
+--statusTimer: 13.59
+--waitTimer:    0.13
+<<< Status Frame 11600 >>>
+--statusTimer: 13.02
+--waitTimer:    0.10
+<<< Status Frame 11700 >>>
+--statusTimer: 12.19
+--waitTimer:    0.05
+<<< Status Frame 11800 >>>
+--statusTimer: 11.85
+--waitTimer:    0.09
+<<< Status Frame 11900 >>>
+--statusTimer: 12.45
+--waitTimer:    0.21
+<<< Status Frame 12000 >>>
+--statusTimer: 12.61
+--waitTimer:    0.11
+<<< Status Frame 12100 >>>
+--statusTimer: 12.72
+--waitTimer:    0.27
+<<< Status Frame 12200 >>>
+--statusTimer: 11.80
+--waitTimer:    0.11
+<<< Status Frame 12300 >>>
+--statusTimer: 12.40
+--waitTimer:    0.02
+<<< Status Frame 12400 >>>
+--statusTimer: 12.75
+--waitTimer:    0.17
+<<< Status Frame 12500 >>>
+--statusTimer: 12.72
+--waitTimer:    0.16
+<<< Status Frame 12600 >>>
+--statusTimer: 12.26
+--waitTimer:    0.10
+<<< Status Frame 12700 >>>
+--statusTimer: 12.42
+--waitTimer:    0.12
+<<< Status Frame 12800 >>>
+--statusTimer: 13.51
+--waitTimer:    0.15
+<<< Status Frame 12900 >>>
+--statusTimer: 12.17
+--waitTimer:    0.11
+<<< Status Frame 13000 >>>
+--statusTimer: 13.04
+--waitTimer:    0.12
+<<< Status Frame 13100 >>>
+--statusTimer: 13.10
+--waitTimer:    0.17
+<<< Status Frame 13200 >>>
+--statusTimer: 11.95
+--waitTimer:    0.24
+<<< Status Frame 13300 >>>
+--statusTimer: 12.29
+--waitTimer:    0.09
+<<< Status Frame 13400 >>>
+--statusTimer: 12.73
+--waitTimer:    0.11
+<<< Status Frame 13500 >>>
+--statusTimer: 12.59
+--waitTimer:    0.12
+<<< Status Frame 13600 >>>
+--statusTimer: 12.09
+--waitTimer:    0.12
+<<< Status Frame 13700 >>>
+--statusTimer: 12.73
+--waitTimer:    0.13
+<<< Status Frame 13800 >>>
+--statusTimer: 12.98
+--waitTimer:    0.18
+<<< Status Frame 13900 >>>
+--statusTimer: 11.46
+--waitTimer:    0.03
+<<< Status Frame 14000 >>>
+--statusTimer: 12.54
+--waitTimer:    0.10
+<<< Status Frame 14100 >>>
+--statusTimer: 12.50
+--waitTimer:    0.19
+<<< Status Frame 14200 >>>
+--statusTimer: 11.94
+--waitTimer:    0.13
+<<< Status Frame 14300 >>>
+--statusTimer: 11.82
+--waitTimer:    0.09
+<<< Status Frame 14400 >>>
+--statusTimer: 11.65
+--waitTimer:    0.09
+<<< Status Frame 14500 >>>
+--statusTimer: 13.10
+--waitTimer:    0.02
+<<< Status Frame 14600 >>>
+--statusTimer: 12.47
+--waitTimer:    0.04
+<<< Status Frame 14700 >>>
+--statusTimer: 13.05
+--waitTimer:    0.23
+<<< Status Frame 14800 >>>
+--statusTimer: 12.22
+--waitTimer:    0.14
+<<< Status Frame 14900 >>>
+--statusTimer: 11.76
+--waitTimer:    0.16
+<<< Status Frame 15000 >>>
+--statusTimer: 13.29
+--waitTimer:    0.14
+<<< Status Frame 15100 >>>
+--statusTimer: 12.68
+--waitTimer:    0.09
+<<< Status Frame 15200 >>>
+--statusTimer: 13.96
+--waitTimer:    0.19
+<<< Status Frame 15300 >>>
+--statusTimer: 13.17
+--waitTimer:    0.13
+<<< Status Frame 15400 >>>
+--statusTimer: 12.91
+--waitTimer:    0.06
+<<< Status Frame 15500 >>>
+--statusTimer: 12.02
+--waitTimer:    0.12
+<<< Status Frame 15600 >>>
+--statusTimer: 13.48
+--waitTimer:    0.24
+<<< Status Frame 15700 >>>
+--statusTimer: 12.13
+--waitTimer:    0.15
+<<< Status Frame 15800 >>>
+--statusTimer: 10.65
+--waitTimer:    0.16
+<<< Status Frame 15900 >>>
+--statusTimer: 12.84
+--waitTimer:    0.15
+<<< Status Frame 16000 >>>
+--statusTimer: 12.09
+--waitTimer:    0.03
+<<< Status Frame 16100 >>>
+--statusTimer: 12.51
+--waitTimer:    0.12
+<<< Status Frame 16200 >>>
+--statusTimer: 13.11
+--waitTimer:    0.06
+
+Exiting.
+Bytes Recv:  3.52 MB
+Bytes Send:  3.52 MB
