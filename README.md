@@ -1,5 +1,5 @@
 # TENSEGRITY REPRESENTATION OBJECT MODEL FOR BIOMOLECULES
-This is a particle simulation of biomolecular objects using Tensegrity representation method. A 3D simulation based on DirectX 12. It supports virtual reality (VR) interface based on openVR SDK, Leap Motion controller, and a custom-built hand haptic rendering device.
+This is a particle simulation of biomolecular objects using Tensegrity representation method, a 3D simulation developed using DirectX 12. The base code originated from "Introduction to 3D Game Programming with DirectX12" book by Frank Luna but has had considerable changes and additions made to the project. It supports virtual reality (VR) interface based on openVR SDK, Leap Motion controller, and a custom-built hand haptic rendering device.
 
 Doctoral thesis title: Tensegrity representation of static elastic model for large-scale biomolecules in an interactive haptic virtual reality environment.
 Author: Arif Pramudwiatmoko
